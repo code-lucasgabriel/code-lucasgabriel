@@ -1,31 +1,25 @@
-</div>
+<h3> My name is Lucas Gabriel. I'm a final-year BSc Computer Science student at UNICAMP, Brazil.</h3>
 
+<picture>
+    <img align="right" width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=code-lucasgabriel&theme=tokyonight">
+</picture>
 
-<div align = "center"> 
+:space_invader: More About Me
 
+:pencil2: Python / C / C++ / Java
 
-[![My Skills](https://skillicons.dev/icons?i=regex,py,css,html,bootstrap,c,cpp,js&perline=10&theme=light)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=github,vscode&perline=10&theme=light)](https://skillicons.dev)
- 
-</div>
+:package: Linux / Docker / Git / GCP / FastAPI / React
 
-# GitHub Statistics 
+:handbag: Software Developer Intern at Eldorado Research Institute
 
-</div>
+:brain: Interests: Machine Learning, Cloud Computing, Combinatorial Optimization, Software Engineering
+
+:thought_balloon: Ask me anything at Discussions!
+
 <p align="center">
-  <a href="https://github.com/code-lucasgabriel">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=code-lucasgabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/code-lucasgabriel">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-lucasgabriel&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
-</a>
+  <samp>
+    <a href="https://github.com/code-lucasgabriel">github</a> • 
+    <a href="https://www.linkedin.com/in/lucasgmc">linkedin</a> •
+    <a href="mailto:code.lucasgabriel@gmail.com">email</a>
+  </samp>
 </p>
