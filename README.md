@@ -6,15 +6,13 @@
 
 :space_invader: More About Me
 
-:pencil2: Python / C / C++ / Java
+:pencil2: Python / C / C++ / Java / Rust
 
 :package: Linux / Docker / Git / GCP / FastAPI / React
 
-:handbag: Software Developer Intern at Eldorado Research Institute
+:handbag: Software Developer Intern at [Eldorado Research Institute](https://www.eldorado.org.br/en/)
 
 :brain: Interests: Machine Learning, Cloud Computing, Combinatorial Optimization, Software Engineering
-
-:thought_balloon: Ask me anything at Discussions!
 
 <p align="center">
   <samp>
