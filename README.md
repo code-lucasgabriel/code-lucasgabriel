@@ -12,7 +12,7 @@
 
 :handbag: Software Developer Intern at [Eldorado Research Institute](https://www.eldorado.org.br/en/)
 
-:brain: Interests: Machine Learning, Cloud Computing, Combinatorial Optimization, Software Engineering
+:brain: Interests: Software Engineering, Machine Learning, Cloud Computing, Combinatorial Optimization
 
 <p align="center">
   <samp>
