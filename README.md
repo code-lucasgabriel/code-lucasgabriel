@@ -8,7 +8,7 @@
 
 :pencil2: Python / C / C++ / Java / Rust
 
-:package: Linux / Docker / Git / GCP / FastAPI / React
+:package: Linux / Docker / Git / GCP / AWS / FastAPI / React
 
 :handbag: Software Developer Intern at [Eldorado Research Institute](https://www.eldorado.org.br/en/)
 
