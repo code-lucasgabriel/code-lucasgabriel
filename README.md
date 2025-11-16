@@ -6,7 +6,7 @@
 
 :space_invader: More About Me
 
-:pencil2: Python / C / C++ / Java / Rust
+:pencil2: Python / Rust / C / C++ / Java
 
 :package: Linux / Docker / Git / GCP / AWS / FastAPI / React
 
