@@ -6,13 +6,13 @@
 
 :space_invader: More About Me
 
-:pencil2: Python / Rust / C / C++ / Java
+:pencil2: Python / Go / Rust / C / C++ / Java
 
-:package: Linux / Docker / Git / GCP / AWS / FastAPI / React
+:package: Linux / Docker / Git / GCP / AWS / Kubernetes
 
-:handbag: Software Developer Intern at [Eldorado Research Institute](https://www.eldorado.org.br/en/)
+:handbag: Platform Engineering/SRE Intern at [Wildlife Studios](https://wildlifestudios.com/)
 
-:brain: Interests: Software Engineering, Machine Learning, Cloud Computing, Combinatorial Optimization
+:brain: Interests: SRE, Software Engineering, Cloud Computing, Combinatorial Optimization, Machine Learning
 
 <p align="center">
   <samp>
