@@ -12,7 +12,7 @@
 
 :handbag: Platform Engineering/SRE Intern at [Wildlife Studios](https://wildlifestudios.com/)
 
-:brain: Interests: SRE, Software Engineering, Cloud Computing, Combinatorial Optimization, Machine Learning
+:brain: Interests: Software Engineering, Core Systems, Distributed Infrastructure, Combinatorial Optimization, Machine Learning
 
 <p align="center">
   <samp>
