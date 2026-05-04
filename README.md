@@ -11,7 +11,7 @@
 
 :package: Linux / Docker / Git / GCP / AWS / Kubernetes
 
-:handbag: Platform Engineering/SRE Intern at [Wildlife Studios](https://wildlifestudios.com/)
+:handbag: Sfotware Engineer Intern at [Wildlife Studios](https://wildlifestudios.com/), one of the 10 largest mobile gaming companies in the world
 
 :brain: Interests: Software Engineering, Core Systems, Distributed Infrastructure, Combinatorial Optimization, Machine Learning
 
