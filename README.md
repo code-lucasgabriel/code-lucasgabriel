@@ -1,4 +1,5 @@
-<h3> My name is Lucas Gabriel. I'm a Software Engineer (Core Systems & Distributed Infrastructure) at Wildlife Studios, Brazil.</h3>
+<h3> My name is Lucas Gabriel.</h3>
+<h3>I'm a Software Engineer (Core Systems & Distributed Infrastructure) at Wildlife Studios, Brazil.</h3>
 
 <picture>
     <img align="right" width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=code-lucasgabriel&theme=transparent">
