@@ -5,15 +5,15 @@
     <img align="right" width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=code-lucasgabriel&theme=transparent">
 </picture>
 
-:space_invader: More About Me
+**More About Me**
 
-:pencil2: Python / Go / Rust / C / C++ / Java
+**>** Python / Go / Rust / C / C++ / Java
 
-:package: Linux / Docker / Git / GCP / AWS / Kubernetes
+**>** Linux / Docker / Git / GCP / AWS / Kubernetes
 
-:handbag: Sfotware Engineer Intern at [Wildlife Studios](https://wildlifestudios.com/), one of the 10 largest mobile gaming companies in the world
+**>** Sfotware Engineer Intern at [Wildlife Studios](https://wildlifestudios.com/), one of the 10 largest mobile gaming companies in the world
 
-:brain: Interests: Software Engineering, Core Systems, Distributed Infrastructure, Combinatorial Optimization, Machine Learning
+> Interests: Software Engineering, Core Systems, Distributed Infrastructure, Combinatorial Optimization, Machine Learning
 
 <p align="center">
   <samp>
