@@ -1,4 +1,4 @@
-<h3> My name is Lucas Gabriel.</h3>
+<h3> My name is Lucas Gabriel. People call me Monteiro ;)</h3>
 <h3>I'm a Software Engineer (Core Systems & Distributed Infrastructure) at Wildlife Studios, Brazil.</h3>
 
 <picture>
