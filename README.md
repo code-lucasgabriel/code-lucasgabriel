@@ -15,6 +15,12 @@
 
 > Interests: Software Engineering, Core Systems, Distributed Infrastructure, Combinatorial Optimization, Machine Learning
 
+**Selected Open-Source Work**
+
+**>** [topfreegames/pusher](https://github.com/topfreegames/pusher) — migration of APNs to FCM for iOS messages (Go): FCM Kafka topic ingestion ([#86](https://github.com/topfreegames/pusher/pull/86)), platform-aware message handling ([#87](https://github.com/topfreegames/pusher/pull/87)), APNS payload building ([#88](https://github.com/topfreegames/pusher/pull/88)), iOS message migration ([#89](https://github.com/topfreegames/pusher/pull/89))
+
+**>** [topfreegames/marathon](https://github.com/topfreegames/marathon) — FCM-first dispatch routing ([#65](https://github.com/topfreegames/marathon/pull/65)) (Go)
+
 <p align="center">
   <samp>
     <a href="https://github.com/code-lucasgabriel">github</a> • 
