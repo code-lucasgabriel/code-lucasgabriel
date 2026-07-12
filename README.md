@@ -7,11 +7,11 @@
 
 **More About Me**
 
-**>** Python / Go / Rust / C / C++ / Java
+**>** Python / Go / C / C++
 
 **>** Linux / Docker / Git / GCP / AWS / Kubernetes
 
-**>** Sfotware Engineer Intern at [Wildlife Studios](https://wildlifestudios.com/), one of the 10 largest mobile gaming companies in the world
+**>** Software Engineer Intern at [Wildlife Studios](https://wildlifestudios.com/), one of the 10 largest mobile gaming companies in the world
 
 > Interests: Software Engineering, Core Systems, Distributed Infrastructure, Combinatorial Optimization, Machine Learning
 
