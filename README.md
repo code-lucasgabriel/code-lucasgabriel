@@ -13,7 +13,7 @@
 
 **>** Software Engineer Intern at [Wildlife Studios](https://wildlifestudios.com/), one of the 10 largest mobile gaming companies in the world
 
-> Interests: Software Engineering, Core Systems, Distributed Infrastructure, Combinatorial Optimization, Machine Learning
+> Interests: Software Engineering, Core Systems, Distributed Infrastructure, Combinatorial Optimization, Machine Learning, Open-Source
 
 **Selected Open-Source Work**
 
