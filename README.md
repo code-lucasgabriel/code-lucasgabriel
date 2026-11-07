@@ -21,7 +21,7 @@
 
 **>** [topfreegames/marathon](https://github.com/topfreegames/marathon) — FCM-first dispatch routing ([#65](https://github.com/topfreegames/marathon/pull/65)) (Go)
 
-**>** [topfreegames/pitaya](https://github.com/topfreegames/pitaya) - Optimization of GC pressure with compression pool [#510](https://github.com/topfreegames/pitaya/pull/510)]) (Go)
+**>** [topfreegames/pitaya](https://github.com/topfreegames/pitaya) - Optimization of GC pressure with compression pool ([#510](https://github.com/topfreegames/pitaya/pull/510)) (Go)
 
 <p align="center">
   <samp>
